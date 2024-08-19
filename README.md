@@ -24,7 +24,7 @@ This is the EVM wallet for Ethereum, Goerli Ethereum testnet made with React, MU
 - Store encrypted wallet data with Password and Mnemonic to uniqu wallet.
 
 ### - Import Wallet
-
+ 
 - Agree to Altura's term.
 - Set password.
 - Import 12 words mnemonic phase.
